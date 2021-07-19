@@ -1,15 +1,15 @@
 baseurl = "https://yarelm.github.io/"
-title = "My blog"
+title = "Yarel Maman's Blog"
 theme = "ghostwriter"
 
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "My headline"
-    description = "My description"
-    github = "https://github.com/XXX"
-    twitter = "https://twitter.com/XXX"
-    email = "XXX@example.com"
+    headline = "Yarel Maman's Blog"
+    description = "Piecing the Puzzle"
+    github = "https://github.com/yarelm"
+    twitter = "https://twitter.com/YarelMam"
+    email = "yarel.maman@gmail.com"
     opengraph = true
     shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
