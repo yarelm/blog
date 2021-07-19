@@ -5,8 +5,6 @@ date = 2021-03-22T02:13:50Z
 author = "Yarel Maman"
 +++
 
-## Heading Towards Cloud-Native Developer Environments [Part 1 — The Why]
-
 In many cloud-based software development projects, a CI/CD process is designed and maintained for deploying applications in an efficient, safe, and productive manner to cloud environments.
 
 The main focus around the CI/CD process is often on the cloud/remote side, but seldom we talk about the phase that comes right before CI/CD, which is the local development and testing done on the developer’s laptop.
@@ -150,7 +148,7 @@ The simple answer is that it’s up to you.
 
 Basically, with personal environments, you are dedicating an environment for a specific person for a long-term purpose. While with ephemeral environments, you are creating an environment for a specific **change** (which gets destroyed after you merge that change).
 
-My colleague [Mike Sparr](undefined) wrote a great [article](https://blog.doit-intl.com/recreating-heroku-ci-cd-review-apps-on-google-cloud-platform-845fa0957232?source=friends_link&sk=f84712c1579d96be64edd4ceb6f2ff2f) on ephemeral environments and you should check that out as well.
+My colleague Mike Sparr wrote a great [article](https://blog.doit-intl.com/recreating-heroku-ci-cd-review-apps-on-google-cloud-platform-845fa0957232?source=friends_link&sk=f84712c1579d96be64edd4ceb6f2ff2f) on ephemeral environments and you should check that out as well.
 
 You could definitely do both — though that might be an overkill for your needs.
 
