@@ -1,5 +1,5 @@
 +++
-title = "eading Towards Cloud-Native Developer Environments [Part 1 — The Why]"
+title = "Heading Towards Cloud-Native Developer Environments [Part 1 — The Why]"
 description = "Common local development methods are going the way of the dinosaur. Cloud-native is the future. Here's why."
 date = 2021-03-22T02:13:50Z
 author = "Yarel Maman"
