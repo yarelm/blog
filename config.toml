@@ -1,4 +1,4 @@
-baseurl = "https://yarelm.github.io"
+baseurl = "https://yarelm.github.io/"
 title = "My blog"
 theme = "ghostwriter"
 
