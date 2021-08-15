@@ -152,4 +152,4 @@ My colleague Mike Sparr wrote a great [article](https://blog.doit-intl.com/recre
 
 You could definitely do both — though that might be an overkill for your needs.
 
-In [Part 2](https://blog.doit-intl.com/heading-towards-cloud-native-developer-environments-part-2-how-51b09f70c7fa), I will illustrate such a setup using an example architecture, using Terraform, ArgoCD, and Telepresence. [Go to Part 2!](https://blog.doit-intl.com/heading-towards-cloud-native-developer-environments-part-2-how-51b09f70c7fa)
+In [Part 2](https://www.yarelm.com/heading-towards-cloud-native-environments-2/), I will illustrate such a setup using an example architecture, using Terraform, ArgoCD, and Telepresence. [Go to Part 2!](https://www.yarelm.com/heading-towards-cloud-native-environments-2/)
