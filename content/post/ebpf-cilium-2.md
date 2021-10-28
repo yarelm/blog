@@ -1,11 +1,12 @@
 +++
 title = "eBPF, Cilium, Dataplane V2 and All That Buzz (Part 2)"
 description = "Let's explore Cilium and Dataplane V2!"
-date = 2021-10-28T02:13:50Z
+date = 2021-10-28T02:14:50Z
 author = "Yarel Maman"
 +++
 
-I hope you enjoyed reading about eBPF in [Part 1](https://blog.doit-intl.com/ebpf-cilium-dataplane-v2-and-all-that-buzz-part-1-2-1eb4255391da)! Now let’s examine Cilium as a popular K8s eBPF solution and find out how it relates to Dataplane V2.
+I hope you enjoyed reading about eBPF in [Part 1](https://www.yarelm.com/ebpf-cilium/
+)! Now let’s examine Cilium as a popular K8s eBPF solution and find out how it relates to Dataplane V2.
 
 [Cilium](https://cilium.io/) 🐝 is a “hot” technology that’s powered by eBPF. It’s often the first thing mentioned when eBPF comes up, more so in the context of K8s. Cilium is basically open-source software that acts as a [CNI plugin](https://github.com/containernetworking/cni) for Kubernetes. It provides eBPF-based networking, observability, and security with optimal scale and performance for platform teams operating Kubernetes environments on the cloud and on-premise.
 

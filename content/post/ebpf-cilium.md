@@ -11,7 +11,7 @@ Looking for a modern security, observability, and monitoring solution, while mai
 
 ![](https://cdn-images-1.medium.com/max/3840/1*sUNb0u0Jl9BgOHlv-owy0w.jpeg)
 
-*If you are already familiar with eBPF and are interested in reading about Cilium/Dataplane V2, feel free to skip to [Part 2](https://blog.doit-intl.com/ebpf-cilium-dataplane-v2-and-all-that-buzz-part-2-8bcbee51720d)!*
+*If you are already familiar with eBPF and are interested in reading about Cilium/Dataplane V2, feel free to skip to [Part 2](https://www.yarelm.com/ebpf-cilium-2/)!*
 
 [eBPF](https://ebpf.io/) belongs to the Linux Kernel space, a domain where most of us don’t hang out. So why should a person who is “up in the cloud” even care about such a low-level Linux Kernel feature? Well, the truth is that eBPF is a kind of a revolution. It has a massive impact on both low-level and high-level areas.
 
@@ -50,5 +50,5 @@ In addition to the verification process, there are certain limits that imply to 
 
 * [Pixie](https://pixielabs.ai/) — Application troubleshooting platform for Kubernetes (check it out!)
 
-I hope you found this information useful. This [list](https://ebpf.io/projects) shows additional projects that are powered by eBPF. In [Part 2](https://blog.doit-intl.com/ebpf-cilium-dataplane-v2-and-all-that-buzz-part-2-8bcbee51720d), we’ll explore Cilium as a popular K8s eBPF solution and figure out what Dataplane V2 has to do with it.
+I hope you found this information useful. This [list](https://ebpf.io/projects) shows additional projects that are powered by eBPF. In [Part 2](https://www.yarelm.com/ebpf-cilium-2/), we’ll explore Cilium as a popular K8s eBPF solution and figure out what Dataplane V2 has to do with it.
 
