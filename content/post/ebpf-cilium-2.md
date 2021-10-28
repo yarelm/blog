@@ -73,6 +73,8 @@ From the testing I have done, some Cilium features seem to work on Dataplane V2.
 
 Here’s a feature comparison:
 
+{{< gist yarelm a9e9b5ab51ee2b8a79b8c16acb4444ba >}}
+
 <script src="https://gist.github.com/yarelm/a9e9b5ab51ee2b8a79b8c16acb4444ba.js"></script>
 
 The common features of both Cillium and Dataplane V2 currently are:
