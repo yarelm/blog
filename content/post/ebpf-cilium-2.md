@@ -75,8 +75,6 @@ Here’s a feature comparison:
 
 {{< gist yarelm a9e9b5ab51ee2b8a79b8c16acb4444ba >}}
 
-<script src="https://gist.github.com/yarelm/a9e9b5ab51ee2b8a79b8c16acb4444ba.js"></script>
-
 The common features of both Cillium and Dataplane V2 currently are:
 
 * [K8s Network Policies](https://kubernetes.io/docs/concepts/services-networking/network-policies/) (**not CiliumNetworkPolicy**, although Dataplane V2 doesn’t seem to reject it at the moment),
