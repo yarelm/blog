@@ -1,5 +1,9 @@
-
-## eBPF, Cilium, Dataplane V2 and All That Buzz (Part 2)
++++
+title = "eBPF, Cilium, Dataplane V2 and All That Buzz (Part 2)"
+description = "Let's explore Cilium and Dataplane V2!"
+date = 2021-10-28T02:13:50Z
+author = "Yarel Maman"
++++
 
 I hope you enjoyed reading about eBPF in [Part 1](https://blog.doit-intl.com/ebpf-cilium-dataplane-v2-and-all-that-buzz-part-1-2-1eb4255391da)! Now let’s examine Cilium as a popular K8s eBPF solution and find out how it relates to Dataplane V2.
 

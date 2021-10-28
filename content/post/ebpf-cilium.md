@@ -1,5 +1,9 @@
-
-## eBPF, Cilium, Dataplane V2 and All That Buzz (Part 1)
++++
+title = "eBPF, Cilium, Dataplane V2 and All That Buzz (Part 1)"
+description = "What's all the noise about? Is the hype around eBPF justified?"
+date = 2021-10-28T02:13:50Z
+author = "Yarel Maman"
++++
 
 If you’re following the latest cloud computing trends, you’ve probably come across the eBPF term quite a lot. It’s hard not to notice it. Let’s learn why.
 
