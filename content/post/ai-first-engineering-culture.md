@@ -1,7 +1,7 @@
 +++
 title = "The AI-First Transformation: Winning Over Skeptical Engineers"
 description = "Tips for managers to win over skeptical engineers and build an AI-first culture"
-date = 2025-12-04T23:00:00Z
+date = 2025-12-04T21:00:00Z
 author = "Yarel Maman"
 +++
 
