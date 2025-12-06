@@ -17,9 +17,9 @@ These are usually the more senior folks, and those that tend to be more technica
 
 They are the ones who've seen many phases of hype over their careers, and they developed a mature level of skepticism. They say AI is too hyped.
 
-While on the same time, you may see the PMs, the designers, the analysts and other non-engineers in org, swiftly adapt AI and use vibe-coding heavily, while being deeply passionate about it. What's going on? Shouldn't the engieering be on the bleeding edge?
+While at the same time, you may see the PMs, the designers, the analysts and other non-engineers in the org, swiftly adopt AI and use vibe-coding heavily, while being deeply passionate about it. What's going on? Shouldn't the engineering be on the bleeding edge?
 
-To get your engineering team to be AI-first, you have to **win them over**. Because these AI skeptics are often the more senior eng, they tend to lead and influence where the wind is blowing within their teams. If you make them AI-first, others will follow.
+To get your engineering team to be AI-first, you have to **win them over**. Because these AI skeptics are often the more senior engineers, they tend to lead and influence where the wind is blowing within their teams. If you make them AI-first, others will follow.
 
 As a manager, you may think "they don't want to use AI because they are afraid it will replace them", or other similar thoughts.
 
@@ -62,7 +62,7 @@ When I was working with teams to help them adopt AI-assisted coding, that skepti
 
 3. Develop healthy skepticism yourself. When someone shows you a sexy demo built using AI in a few hours, dig deeper—ask the skeptics what's rotting under the hood.
 
-4. Start having forums, guilds, and discussions about AI safety - Listen to the people on the trenches - what concerns them? how do we keep our quality bar high while using AI? how do we adapt the SDLC to fit AI? How do we do proper code reviews for AI-generated code?
+4. Start having forums, guilds, and discussions about AI safety - Listen to the people in the trenches - What concerns them? How do we keep our quality bar high while using AI? How do we adapt the SDLC to fit AI? How do we do proper code reviews for AI-generated code?
 
 ### ❌ Don't
 
