@@ -17,11 +17,13 @@ These are usually the more senior folks, and those that tend to be more technica
 
 They are the ones who've seen many phases of hype over their careers, and they developed a mature level of skepticism. They say AI is too hyped.
 
-To get your engineering team to be AI-first, you have to **win them over**. Because these skeptics are often the more senior folks, they tend to lead and influence where the wind is blowing within their teams. If you make them AI-first, others will follow.
+While on the same time, you may see the PMs, the designers, the analysts and other non-engineers in org, swiftly adapt AI and use vibe-coding heavily, while being deeply passionate about it. What's going on? Shouldn't the engieering be on the bleeding edge?
+
+To get your engineering team to be AI-first, you have to **win them over**. Because these AI skeptics are often the more senior eng, they tend to lead and influence where the wind is blowing within their teams. If you make them AI-first, others will follow.
 
 As a manager, you may think "they don't want to use AI because they are afraid it will replace them", or other similar thoughts.
 
-That's mostly not true. I've talked to a lot of them, and as a technical skeptical person myself, I can understand why they developed that skepticism. To win them over, you need to understand their way of thinking.
+That's mostly not true. And as a technical skeptical person myself, I can understand why they developed that skepticism. To win them over, you need to understand their way of thinking.
 
 ### Why They're Skeptical
 
@@ -35,18 +37,18 @@ Imagine the process they have gone through that reinforced their skepticism:
 
 - Some of them may have already handed over vibe-coded code built in 2 hours by non-technical folks asking them to make it "production-ready" and they know that it's a ticking time-bomb. They know that if they take ownership of that, they invite chaos.
 
-They are not wrong there. These skeptical folks have some good points, because they **care about production and high-quality**, they want to keep the tech reliable and working so that the **business will prosper**.
+They are not wrong there. These skeptical folks have some good points, because they **care about production and high-quality**, they want to keep the tech reliable and working so that the **business will grow and prosper**.
 They know the devil is in the details, and the concerning things that they see can't always be seen from up above.
 
 But they are wrong in allowing the skepticism to control them, preventing them from adopting AI and gaining productivity boost.
 
 So how do you actually move them? I can share what worked for me.
 
-I was never a big coding enthusiast; I cared more about architecture, and coding was just a tool. Around the same time, I was building AI agents, so I understood the potential.
+I'm not a coding purist; I care more about architecture, the big-picture, and coding was just a tool for me. Around the same time, I was building AI agents, so I understood the potential.
 
 I forced myself to stop writing code manually for a while and lean fully on AI. It was clunky at first, but after a period of experimenting, I noticed I was genuinely more productive. The key insight: AI-generated code is verifiable. Once you put a senior engineer in the loop, it becomes controllable.
 
-That's when I started treating AI as a **copilot that helps me brainstorm, plan, and execute on my terms**—and it stuck. But I needed that trial and error period to get there.
+That's when I started treating AI as a **copilot that helps me brainstorm, plan, and execute on my terms**—and it stuck. But I needed that trial and error period to get there. Once other engineers noticed that, they followed.
 
 When I was working with teams to help them adopt AI-assisted coding, that skeptical pattern became clear to me, and I knew how to approach them because I can speak their language and see them eye-to-eye. And that builds trust.
 
