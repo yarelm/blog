@@ -62,6 +62,8 @@ When I was working with teams to help them adopt AI-assisted coding, that skepti
 
 3. Develop healthy skepticism yourself. When someone shows you a sexy demo built using AI in a few hours, dig deeper—ask the skeptics what's rotting under the hood.
 
+4. Start having forums, guilds, and discussions about AI safety - Listen to the people on the trenches - what concerns them? how do we keep our quality bar high while using AI? how do we adapt the SDLC to fit AI? How do we do proper code reviews for AI-generated code?
+
 ### ❌ Don't
 
 1. Don't call AI coding as vibe-coding. Terminology can trigger emotions. Vibe-coding is when the code doesn't matter. Not every AI coding is vibe coding. There are much safer and reliable ways to do AI coding for production. You can call it AI-assisted coding.
