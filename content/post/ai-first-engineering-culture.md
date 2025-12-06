@@ -56,7 +56,7 @@ When I was working with teams to help them adopt AI-assisted coding, that skepti
 
 1. Find skeptical engineers who've become passionate AI adopters—people respected by their peers. Let them lead this effort while you sponsor and support them.
 
-2. Talk to team leads to give engineers time to learn and experiment. AI-assisted coding is not vibe-coding—it's a skill that takes time to develop. Expect a productivity plateau before you see the gains.
+2. Talk to team leads to give engineers time to learn and experiment. AI-assisted coding is not vibe-coding—it's a skill that takes time to develop. Expect an initial dip in productivity before you see the gains.
 
 3. Develop healthy skepticism yourself. When someone shows you a sexy demo built using AI in a few hours, dig deeper—ask the skeptics what's rotting under the hood.
 
