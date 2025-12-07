@@ -11,6 +11,8 @@ You probably believe that AI is a huge productivity boost for engineers. And tha
 
 Why is that claim not enough to move the needle?
 
+Because productivity claims don't address what skeptics actually care about: quality and maintainability.
+
 In every org, there are the "**AI skeptical**" engineers.
 
 These are usually the more senior folks, and often those that tend to be more technical than others.
@@ -25,7 +27,7 @@ As a manager, you may think "they don't want to use AI because they are afraid i
 
 That's mostly not true. And as a technical skeptical person myself, I can understand why they developed that skepticism. To win them over, you need to understand their point of view.
 
-### Why They're Skeptical
+## Why They're Skeptical
 
 Imagine the process they have gone through that reinforced their skepticism:
 
@@ -42,17 +44,15 @@ They know the devil is in the details, and the concerning things that they see c
 
 But they are wrong in allowing the skepticism to control them, preventing them from adopting AI that will allow them to be more productive.
 
-So how do we solve that? I can share what worked for me.
+## What Worked for Me
 
-I'm not a coding purist; I care more about architecture, the big-picture, and coding was just a tool for me. Around the same time, I was building AI agents, so I understood the potential.
-
-I forced myself to stop writing code manually for a while and lean fully on AI. It was clunky at first, and the results were not up to my standards. But after a period of experimenting, I noticed I was genuinely more productive. The key insight: AI-generated code is verifiable, so you can verify the logic works. But once you put a senior engineer in the loop, you can make it more controllable.
+I was building AI agents at the time, so I had a sense of the potential. I forced myself to stop writing code manually for a while and lean fully on AI. It was clunky at first, and the results were not up to my standards. But after a period of experimenting, I noticed I was genuinely more productive. The key insight: AI-generated code is verifiable, so you can verify the logic works. But once you put a senior engineer in the loop, you can make it more controllable.
 
 That's when I started treating AI as a **copilot that helps me brainstorm, plan, and execute on my terms**—and it stuck. But I needed that trial and error period to get there. Once other engineers noticed that, they followed.
 
 When I was working with teams to help them adopt AI-assisted coding, that skeptical pattern became clear to me, and I knew how to approach them because I can speak their language and understand their concerns. And that builds trust.
 
-## Tips on AI-coding enablement
+## Winning Over Your Skeptics
 
 ### ❌ Don't
 
@@ -72,4 +72,6 @@ When I was working with teams to help them adopt AI-assisted coding, that skepti
 
 4. Start having forums, guilds, and discussions about AI safety - Listen to the people in the trenches - What concerns them? How do we keep our quality bar high while using AI? How do we adapt the SDLC to fit AI? How do we do proper code reviews for AI-generated code?
 
-🎯 The AI-first transformation requires both top-down and bottom-up—leadership support *and* buy-in from the people closest to the code. Neither alone is enough. As a manager, you're the bridge—and your skeptics are the first ones to bring across. Win them, and you win the team.
+## The Bottom Line
+
+The AI-first transformation requires both top-down and bottom-up—leadership support *and* buy-in from the people closest to the code. Neither alone is enough. As a manager, you're the bridge—and your skeptics are the first ones to bring across. Win them, and you win the team.
