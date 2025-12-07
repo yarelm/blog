@@ -33,7 +33,7 @@ Imagine the process they have gone through that reinforced their skepticism:
 
 - They played with vibe-coding a few times, and it ended up as a big ball of mud. They know the meaning of it - it's not maintainable over time, and it's a tech debt factory.
 
-- Their LinkedIn feed is filled with non-technical influencers who keep bragging about AI ("I made a website in 5 minutes, it's the end of software engineering", "I can do everything with n8n, no-code for the win")
+- Their LinkedIn feed is filled with non-technical influencers who keep bragging about AI ("I made a website in 5 minutes, it's the end of software engineering", "I can do everything with n8n, no-code for the win"). But these people never owned production.
 
 - AI-slop is everywhere. They become very picky and defensive.
 
